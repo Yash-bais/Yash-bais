@@ -1,5 +1,25 @@
 # 💫 About Me:
-# Hi, I'm Yash Bais 👋<br><br>### Data Engineer & AI Researcher | B.Tech CSE (AIML)<br>I specialize in building scalable data architectures and agentic AI workflows. I’m passionate about moving beyond basic LLM prompts into **Agentic RAG pipelines** and **automated data orchestration**.<br><br>- 🛠️ **Current Focus:** Optimizing ETL chunking strategies and Hybrid Search (RRF).<br>- 🚀 **Latest Project:** [Dynamic Hybrid RAG chatbot]- <br>- 🎓 **Academic:** 6th Semester CSE student at [Pimpri Chinchwad University].<br>- ⚽ **Outside of Code:** You'll find me on the football pitch or researching sports nutrition.<br><br>---<br><br>### 🛠️ Tech Stack<br>- **Languages:** Python (Clean Code/Design Patterns), SQL (PostgreSQL, Snowflake-ready).<br>- **AI/ML:** RAG Pipelines, LangChain, LangGraph, ChromaDB, Groq.<br>- **Data Eng:** Apache Spark, Hadoop, SQL Optimization, ETL/ELT.<br>- **Tools:** Docker, Streamlit, Flask, Git.<br><br>### 📊 Performance & Research<br>- **CGPA:** 8.91/10.0<br>- **Focus:** High-integrity retrieval systems and "LLM-as-a-Judge" evaluation frameworks.<br>
+# Hi, I'm Yash Bais 👋
+
+### Data Engineer & AI Researcher | B.Tech CSE (8.91 CGPA)
+I specialize in building scalable data architectures and agentic AI workflows. I’m passionate about moving beyond basic LLM prompts into **Agentic RAG pipelines** and **automated data orchestration**.
+
+- 🛠️ **Current Focus:** Optimizing ETL chunking strategies and Hybrid Search (RRF).
+- 🚀 **Latest Project:** [Hybrid RAG pipeline]- PDF chatbot with LLM as a judge.
+- 🎓 **Academic:** 6th Semester CSE student at [Your University].
+- ⚽ **Outside of Code:** You'll find me on the football pitch or researching sports nutrition.
+
+---
+
+### 🛠️ Tech Stack
+- **Languages:** Python (Clean Code/Design Patterns), SQL (PostgreSQL, Snowflake-ready).
+- **AI/ML:** RAG Pipelines, LangChain, LangGraph, ChromaDB, Groq.
+- **Data Eng:** Apache Spark, Hadoop, SQL Optimization, ETL/ELT.
+- **Tools:** Docker, Streamlit, Flask, Git.
+
+### 📊 Performance & Research
+- **CGPA:** 8.91/10.0
+- **Focus:** High-integrity retrieval systems and "LLM-as-a-Judge" evaluation frameworks.
 
 
 ## 🌐 Socials:
@@ -13,6 +33,6 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Yash-bais&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Yash-bais&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Yash-bais&icon=6&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
