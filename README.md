@@ -6,7 +6,7 @@ I specialize in building scalable data architectures and agentic AI workflows. I
 
 - 🛠️ **Current Focus:** Optimizing ETL chunking strategies and Hybrid Search (RRF).
 - 🚀 **Latest Project:** [Hybrid RAG pipeline]- PDF chatbot with LLM as a judge.
-- 🎓 **Academic:** 6th Semester CSE student at [Your University].
+- 🎓 **Academic:** 6th Semester CSE student at [Pimpri Chinchwad University].
 - ⚽ **Outside of Code:** You'll find me on the football pitch or researching sports nutrition.
 
 ---
